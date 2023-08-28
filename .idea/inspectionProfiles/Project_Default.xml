@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="app.admin.django" />
+          <option value="app.models.MoreBlog.*" />
+          <option value="app.models.Blog_2.*" />
+          <option value="app.models.Blog.*" />
+          <option value="app.models.PopBlog.*" />
+          <option value="app.models.Comment.*" />
+          <option value="app.models.Contact.*" />
+          <option value="app.models.Category.*" />
+          <option value="config.urls.*" />
+          <option value="app.models.Profile.*" />
+          <option value="app.models.Post.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
